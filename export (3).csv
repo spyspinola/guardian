@@ -1,0 +1,141 @@
+ID,"Lab Case Number","Submitting Agency","Incident/Case Number","Case Type","Assignment Type",Status,Analyst,"Creation Date",Age,Items
+59,PCSP-2026-00040,DIP,2024-188,Furto,"Forense Digital","In Progress","usuário Lima Santos","27/04/2026 11:37:35",126,1
+82,PCSP-2026-00062,"UIP - DEINTER 5",2024-356,"Tráfico de Drogas","Forense Digital","In Progress","usuário Trindade","05/05/2026 11:03:01",118,1
+127,PCSP-2026-00109,"UIP - DEINTER 9",2024-001,Outros,"Forense Digital","In Progress","admin spinola","25/05/2026 15:08:16",98,2
+140,PCSP-2026-00125,"UIP - DEINTER 7",2024-002,Outros,"Forense Digital","In Progress","admin spinola","08/06/2026 13:08:08",84,1
+141,PCSP-2026-00126,"UIP - DEINTER 6",2024-003,Outros,"Forense Digital","In Progress","Admin Menezes","08/06/2026 14:17:29",84,1
+142,PCSP-2026-00127,"UIP - DEINTER 10",2024-005,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","08/06/2026 17:28:01",84,1
+143,PCSP-2026-00128,"UIP - DEMACRO",2024-004,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","08/06/2026 17:42:11",84,1
+144,PCSP-2026-00129,"UIP - DEINTER 10",2024-006,Outros,"Forense Digital","In Progress","usuario Bacalá Ribeiro","09/06/2026 10:26:26",83,1
+145,PCSP-2026-00130,"UIP - DEINTER 8",2024-007,Outros,"Forense Digital","In Progress","usuário Trindade","09/06/2026 10:50:12",83,1
+146,PCSP-2026-00131,"UIP - DENARC",2024-008,Outros,"Forense Digital","In Progress","usuário Lima Santos","09/06/2026 10:55:51",83,1
+147,PCSP-2026-00132,"UIP - DEINTER 9",2024-009,Outros,"Forense Digital","In Progress","Admin Menezes","09/06/2026 12:02:49",83,0
+148,PCSP-2026-00133,"UIP - DEINTER 1",2024-010,Homicídio,"Forense Digital","In Progress","admin spinola","10/06/2026 17:17:01",82,1
+149,PCSP-2026-00134,"UIP - DEINTER 4",2024-011,Outros,"Forense Digital","In Progress","admin spinola","10/06/2026 17:51:39",82,1
+150,PCSP-2026-00135,"UIP - DEINTER 10",2024-012,Outros,"Blood Alcohol Analysis","In Progress","admin spinola","12/06/2026 09:18:26",80,1
+151,PCSP-2026-00136,"UIP - DEINTER 9",2024-013,Homicídio,"Forense Digital","In Progress","admin spinola","12/06/2026 09:34:25",80,1
+152,PCSP-2026-00137,"UIP - DEINTER 1",2024-014,Outros,"Forense Digital","In Progress","admin spinola","12/06/2026 10:04:02",80,1
+153,PCSP-2026-00138,"UIP - DECAP",2024-015,Outros,"Forense Digital","In Progress","admin spinola","12/06/2026 10:31:10",80,1
+154,PCSP-2026-00139,"UIP - DEINTER 6",2024-016,Homicídio,"Forense Digital","In Progress","admin spinola","12/06/2026 10:47:49",80,1
+155,PCSP-2026-00140,"UIP - DECAP",2024-017,Outros,"Forense Digital","In Progress","admin spinola","12/06/2026 11:20:05",80,1
+156,PCSP-2026-00141,"UIP - DOPE",2024-020,Roubo,"Forense Digital","In Progress","admin spinola","12/06/2026 14:31:11",80,1
+157,PCSP-2026-00142,"UIP - DEINTER 10",2024-021,Homicídio,"Forense Digital","In Progress","usuário Trindade","15/06/2026 10:32:27",77,1
+158,PCSP-2026-00143,"UIP - DEINTER 8",2024-022,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","15/06/2026 12:30:22",77,1
+159,PCSP-2026-00144,"UIP - DEINTER 8",2024-023,Roubo,"Forense Digital","In Progress","usuario Bacalá Ribeiro","15/06/2026 14:20:47",77,1
+160,PCSP-2026-00144,"UIP - DEINTER 8",2024-023,Roubo,"Forense Digital","Pending Analyst Assignment",,"16/06/2026 11:03:08",76,1
+161,PCSP-2026-00145,"UIP - DEINTER 4",2024-025,Homicídio,"Forense Digital","In Progress","usuário Lima Santos","16/06/2026 14:05:17",76,1
+162,PCSP-2026-00146,"UIP - DEMACRO",2024-026,"Tráfico de Drogas","Forense Digital","In Progress","usuário Barbosa","16/06/2026 15:16:23",76,1
+163,PCSP-2026-00147,"UIP - DEINTER 7",2024-027,Outros,"Forense Digital","In Progress","usuário Trindade","16/06/2026 16:12:10",76,1
+164,PCSP-2026-00148,"UIP - DEMACRO",2024-028,"Crimes contra o Sinarm","Forense Digital","In Progress","usuario Bacalá Ribeiro","16/06/2026 16:59:51",76,1
+165,PCSP-2026-00149,"UIP - DEINTER 8",2024-029,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","17/06/2026 09:08:36",75,1
+166,PCSP-2026-00150,"UIP - DECAP",2024-030,Latrocínio,"Forense Digital","In Progress","usuário Lima Santos","17/06/2026 11:23:30",75,1
+167,PCSP-2026-00151,"UIP - DEINTER 3",2024-031,Peculato,"Forense Digital","In Progress","Admin Menezes","17/06/2026 11:44:37",75,1
+168,PCSP-2026-00152,"UIP - DEINTER 3",2024-032,Roubo,"Forense Digital","In Progress","Admin Menezes","17/06/2026 15:42:57",75,1
+169,PCSP-2026-00153,"UIP - DEINTER 6",2024-033,"Lavagem de Dinheiro","Forense Digital","In Progress","Admin Menezes","17/06/2026 16:19:59",75,1
+170,PCSP-2026-00154,"UIP - DEMACRO",2024-034,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","18/06/2026 09:27:52",74,1
+171,PCSP-2026-00155,"UIP - DEINTER 9",2024-035,Outros,"Forense Digital","In Progress","admin spinola","18/06/2026 10:38:39",74,1
+172,PCSP-2026-00156,"UIP - DEINTER 6",2024-036,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","18/06/2026 11:28:07",74,1
+173,PCSP-2026-00157,"UIP - DEINTER 3",2024-037,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","18/06/2026 14:02:12",74,1
+174,PCSP-2026-00158,"UIP - DECAP",2024-018,Estelionato,"Forense Digital","In Progress","usuário Lima Santos","19/06/2026 12:29:18",73,1
+175,PCSP-2026-00159,"UIP - DEINTER 5",2024-038,Outros,"Forense Digital","In Progress","usuário Trindade","02/07/2026 10:22:05",60,1
+176,PCSP-2026-00160,"UIP - DEINTER 5",2024-039,Outros,"Forense Digital","In Progress","usuario Bacalá Ribeiro","02/07/2026 10:44:44",60,1
+177,PCSP-2026-00161,"UIP - DEINTER 5",2024-040,Estelionato,"Forense Digital","In Progress","usuário Lima Santos","02/07/2026 11:18:26",60,1
+178,PCSP-2026-00162,"UIP - DEINTER 10",2024-041,Homicídio,"Forense Digital","In Progress","usuário Lima Santos","02/07/2026 11:26:45",60,1
+179,PCSP-2026-00163,"UIP - DEMACRO",2024-042,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","02/07/2026 14:53:32",60,1
+180,PCSP-2026-00164,"UIP - DEMACRO",2024-043,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","03/07/2026 09:28:15",59,1
+181,PCSP-2026-00165,"UIP - DEINTER 6",2024-044,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","03/07/2026 11:23:32",59,1
+182,PCSP-2026-00166,"UIP - DECAP",2024-045,Roubo,"Forense Digital","In Progress","usuario Bacalá Ribeiro","03/07/2026 11:42:22",59,1
+183,PCSP-2026-00167,"UIP - DENARC",2024-046,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","03/07/2026 12:26:01",59,1
+184,PCSP-2026-00168,"UIP - DENARC",2024-047,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","03/07/2026 15:10:14",59,1
+185,PCSP-2026-00169,"UIP - DEINTER 9",2024-048,Outros,"Forense Digital","In Progress","admin spinola","03/07/2026 16:07:52",59,1
+186,PCSP-2026-00170,"UIP - DEIC",2024-049,Latrocínio,"Forense Digital","In Progress","Analista Faro","03/07/2026 16:23:26",59,1
+187,PCSP-2026-00171,"UIP - DEMACRO",2024-050,Roubo,"Forense Digital","In Progress","usuario Bacalá Ribeiro","03/07/2026 17:11:37",59,1
+188,PCSP-2026-00172,"UIP - DEINTER 9",2024-057,Outros,"Forense Digital","In Progress","admin spinola","03/07/2026 18:42:13",59,1
+189,PCSP-2026-00173,"UIP - DEMACRO",2024-051,Outros,"Forense Digital","In Progress","admin spinola","06/07/2026 10:54:46",56,1
+190,PCSP-2026-00174,"UIP - DEMACRO",2024-052,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","06/07/2026 11:06:45",56,1
+191,PCSP-2026-00175,"UIP - DEINTER 2",2024-053,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","06/07/2026 15:00:22",56,1
+192,PCSP-2026-00176,"UIP - DENARC",2024-054,"Tráfico de Drogas","Forense Digital","In Progress","usuário Trindade","06/07/2026 16:26:46",56,1
+193,PCSP-2026-00177,"UIP - DEINTER 1",2024-056,Homicídio,"Forense Digital","In Progress","usuario Bacalá Ribeiro","06/07/2026 17:35:49",56,1
+194,PCSP-2026-00178,"UIP - DEINTER 9",2024-058,Roubo,"Forense Digital","In Progress","usuário Lima Santos","08/07/2026 09:48:20",54,1
+195,PCSP-2026-00179,"UIP - DEINTER 7",2024-059,Outros,"Forense Digital","In Progress","admin spinola","08/07/2026 16:34:16",54,1
+196,PCSP-2026-00180,"UIP - DEINTER 7",2024-060,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","14/07/2026 10:07:41",48,1
+197,PCSP-2026-00181,"UIP - DEINTER 7",2024-061,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","14/07/2026 11:37:01",48,1
+198,PCSP-2026-00182,"UIP - DEINTER 7",2024-062,Outros,"Forense Digital","In Progress","Admin Lourenço Ferreira","14/07/2026 15:37:24",48,1
+199,PCSP-2026-00182,"UIP - DEINTER 7",2024-062,Outros,"Forense Digital","In Progress","admin spinola","16/07/2026 09:21:59",46,1
+200,PCSP-2026-00183,"UIP - DEMACRO",2024-063,"Tráfico de Drogas","Forense Digital","In Progress","Analista Faro","20/07/2026 14:32:28",42,1
+201,PCSP-2026-00184,"UIP - DECAP",2024-064,Ameaça,"Forense Digital","In Progress","usuario Bacalá Ribeiro","20/07/2026 15:05:07",42,1
+202,PCSP-2026-00185,"UIP - DEMACRO",2024-065,Outros,"Forense Digital","In Progress","admin spinola","20/07/2026 15:25:12",42,1
+204,PCSP-2026-00187,"UIP - DEINTER 9",2024-067,Homicídio,"Forense Digital","In Progress","Analista Faro","22/07/2026 09:19:23",40,1
+205,PCSP-2026-00188,"UIP - DEINTER 9",2024-068,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","24/07/2026 09:41:43",38,1
+206,PCSP-2026-00189,"UIP - DEINTER 9",2024-070,Outros,"Forense Digital","In Progress","admin spinola","24/07/2026 18:09:09",38,1
+208,PCSP-2026-00191,"UIP - DEINTER 9",2024-069,Homicídio,"Forense Digital","In Progress","Analista Faro","30/07/2026 09:57:46",32,1
+209,PCSP-2026-00192,"UIP - DEINTER 9",2024-071,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","30/07/2026 10:56:36",32,1
+212,PCSP-2026-00195,"UIP - DEINTER 9",2024-072,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","03/08/2026 15:58:49",28,1
+213,PCSP-2026-00196,"UIP - DEINTER 9",2024-073,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","03/08/2026 17:07:14",28,1
+214,PCSP-2026-00197,"UIP - DENARC",2024-074,"Tráfico de Drogas","Forense Digital","In Progress","Analista Faro","03/08/2026 18:13:51",28,1
+219,PCSP-2026-00202,"UIP - DEINTER 5",2024-075,Estelionato,"Forense Digital","In Progress","usuario Bacalá Ribeiro","05/08/2026 09:52:17",26,1
+220,PCSP-2026-00203,"UIP - DEIC",2024-077,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","05/08/2026 11:08:26",26,1
+221,PCSP-2026-00204,"UIP - DEINTER 9",2024-078,Outros,"Forense Digital","In Progress","admin spinola","07/08/2026 09:47:00",24,1
+226,PCSP-2026-00209,"UIP - DENARC",2024-079,Outros,"Forense Digital","In Progress","Analista Faro","10/08/2026 18:20:06",21,1
+228,PCSP-2026-00211,"UIP - DEINTER 6",2024-081,"Tráfico de Drogas","Forense Digital","In Progress","admin spinola","11/08/2026 09:52:58",20,1
+235,PCSP-2026-00218,"UIP - DEINTER 4",2024-082,Homicídio,"Forense Digital","In Progress","usuario Bacalá Ribeiro","13/08/2026 09:52:29",18,1
+236,PCSP-2026-00219,"UIP - DEINTER 4",2024-083,Homicídio,"Forense Digital","In Progress","usuário Lima Santos","13/08/2026 10:51:33",18,1
+237,PCSP-2026-00220,"UIP - DEINTER 4",2024-084,Homicídio,"Forense Digital","In Progress","admin spinola","13/08/2026 11:10:33",18,1
+238,PCSP-2026-00221,"UIP - DEINTER 4",2024-085,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","13/08/2026 12:11:32",18,1
+239,PCSP-2026-00222,"UIP - DEINTER 4",2024-086,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","13/08/2026 12:45:26",18,1
+240,PCSP-2026-00223,"UIP - DEINTER 6",2024-087,Roubo,"Forense Digital","In Progress","Analista Faro","13/08/2026 14:45:46",18,1
+241,PCSP-2026-00224,"UIP - DOPE",2024-088,"Extorsão Mediante Sequestro","Forense Digital","In Progress","usuario Bacalá Ribeiro","13/08/2026 14:56:18",18,1
+243,PCSP-2026-00226,"UIP - DEIC",2024-090,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","13/08/2026 17:06:06",18,1
+244,PCSP-2026-00227,"UIP - DEINTER 10",2024-091,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","13/08/2026 17:55:20",18,1
+245,PCSP-2026-00228,"UIP - DENARC",2024-092,"Tráfico de Drogas","Forense Digital","In Progress","Analista Faro","14/08/2026 08:14:06",17,1
+246,PCSP-2026-00229,"UIP - DENARC",2024-095,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","14/08/2026 08:56:47",17,1
+247,PCSP-2026-00230,"UIP - DECAP",2024-096,"Organização Criminosa","Forense Digital","In Progress","usuário Lima Santos","14/08/2026 09:32:21",17,1
+248,PCSP-2026-00231,DIP,2024-094,Outros,"Forense Digital","In Progress","usuário Lima Santos","14/08/2026 10:48:05",17,1
+249,PCSP-2026-00232,DIP,2024-097,Outros,"Forense Digital","In Progress","usuário Lima Santos","14/08/2026 12:04:02",17,1
+250,PCSP-2026-00233,"UIP - DEINTER 6",2024-098,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","14/08/2026 12:30:00",17,1
+251,PCSP-2026-00234,"UIP - DEMACRO",2024-098,Roubo,"Forense Digital",Cancelled,"usuário Lima Santos","14/08/2026 12:33:55",-,0
+252,PCSP-2026-00235,"UIP - DEMACRO",2024-100,Roubo,"Forense Digital","In Progress","usuário Lima Santos","14/08/2026 14:26:29",17,1
+253,PCSP-2026-00236,"UIP - DEINTER 8",2024-101,Furto,"Forense Digital","In Progress","usuário Lima Santos","17/08/2026 11:11:02",14,1
+254,PCSP-2026-00237,"UIP - DENARC",2024-102,"Tráfico de Drogas","Forense Digital","In Progress","Analista Faro","17/08/2026 12:53:57",14,1
+255,PCSP-2026-00238,"UIP - DECAP",2024-103,Outros,"Forense Digital","In Progress","usuário Lima Santos","17/08/2026 13:26:56",14,1
+257,PCSP-2026-00240,"UIP - DEINTER 9",2024-104,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","17/08/2026 14:26:05",14,1
+258,PCSP-2026-00241,"UIP - DOPE",2024-105,"Extorsão Mediante Sequestro","Forense Digital","In Progress","admin spinola","17/08/2026 15:08:17",14,1
+259,PCSP-2026-00242,"UIP - DEINTER 1",2024-106,Outros,"Forense Digital","In Progress","admin spinola","17/08/2026 15:22:07",14,1
+260,PCSP-2026-00243,"UIP - DEINTER 5",2024-107,Furto,"Forense Digital","In Progress","usuário Lima Santos","17/08/2026 15:27:34",14,1
+261,PCSP-2026-00244,"UIP - DEINTER 9",2024-108,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","17/08/2026 16:03:04",14,1
+263,PCSP-2026-00246,"UIP - DECAP",2024-110,Outros,"Forense Digital","In Progress","usuário Lima Santos","17/08/2026 16:42:49",14,1
+266,PCSP-2026-00249,"UIP - DEINTER 6",2024-111,Outros,"Forense Digital","In Progress","Analista Faro","17/08/2026 17:28:17",14,1
+267,PCSP-2026-00250,"UIP - DEINTER 6",2024-112,Homicídio,"Forense Digital","In Progress","Analista Faro","17/08/2026 17:49:27",14,1
+269,PCSP-2026-00252,"UIP - DEINTER 3",2024-113,Homicídio,"Forense Digital","In Progress","usuario Bacalá Ribeiro","17/08/2026 18:10:05",14,1
+272,PCSP-2026-00255,"UIP - DEINTER 6",2024-114,Outros,"Forense Digital","In Progress","usuário Lima Santos","18/08/2026 08:59:55",13,1
+273,PCSP-2026-00256,"UIP - DEINTER 5",2024-115,Homicídio,"Forense Digital","In Progress","usuário Lima Santos","18/08/2026 09:49:30",13,1
+274,PCSP-2026-00257,"UIP - DEMACRO",2024-117,"Tráfico de Drogas","Forense Digital","In Progress","usuário Trindade","18/08/2026 10:40:23",13,1
+275,PCSP-2026-00258,"UIP - DEMACRO",2024-119,Homicídio,"Forense Digital","In Progress","usuário Trindade","18/08/2026 11:52:29",13,1
+276,PCSP-2026-00259,"UIP - DEMACRO",2024-099,Roubo,"Forense Digital","In Progress","Admin Menezes","18/08/2026 12:39:49",13,1
+277,PCSP-2026-00260,"UIP - DECAP",2024-120,Estelionato,"Forense Digital","In Progress","usuário Trindade","18/08/2026 13:22:04",13,1
+278,PCSP-2026-00261,"UIP - DENARC",2024-121,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","18/08/2026 14:36:41",13,1
+283,PCSP-2026-00266,"UIP - DEINTER 9",2024-118,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","19/08/2026 11:42:21",12,1
+284,PCSP-2026-00267,"UIP - DEINTER 8",2024-123,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","19/08/2026 11:48:05",12,1
+285,PCSP-2026-00268,"UIP - DEINTER 8",2024-124,Ameaça,"Forense Digital","In Progress","admin spinola","19/08/2026 15:35:40",12,1
+290,PCSP-2026-00268,"UIP - DEINTER 8",2024-124,Ameaça,"Forense Digital",Cancelled,,"24/08/2026 17:18:53",-,1
+291,PCSP-2026-00272,"UIP - DEMACRO",2024-125,Estelionato,"Forense Digital","In Progress","Admin Menezes","26/08/2026 09:08:05",5,1
+293,PCSP-2026-00273,"UIP - DEMACRO",2024-126,Receptação,"Forense Digital","In Progress","admin Netto","26/08/2026 10:51:24",5,1
+294,PCSP-2026-00274,"UIP - DEINTER 2",2024-128,"Tráfico de Drogas","Forense Digital","In Progress","admin Netto","26/08/2026 11:00:46",5,1
+295,PCSP-2026-00275,"UIP - DEINTER 9",2024-127,Roubo,"Forense Digital","In Progress","usuario Bacalá Ribeiro","26/08/2026 11:45:17",5,1
+297,PCSP-2026-00277,"UIP - DEINTER 2",2024-129,"Tráfico de Drogas","Forense Digital","In Progress","admin Netto","26/08/2026 17:38:05",5,1
+299,PCSP-2026-00279,"UIP - DEINTER 1",2024-122,Furto,"Forense Digital","In Progress","admin Netto","26/08/2026 18:44:08",5,1
+300,PCSP-2026-00280,"UIP - DEINTER 1",2024-132,"Tráfico de Drogas","Forense Digital","In Progress","admin Netto","26/08/2026 19:14:35",5,1
+301,PCSP-2026-00281,"UIP - DEMACRO",2024-130,Latrocínio,"Forense Digital","In Progress","admin Netto","26/08/2026 19:31:14",5,1
+302,PCSP-2026-00282,"UIP - DECAP",2024-133,"Organização Criminosa","Forense Digital","In Progress","usuário Trindade","27/08/2026 10:21:23",4,1
+303,PCSP-2026-00283,"UIP - DEINTER 9",2024-131,Homicídio,"Forense Digital","In Progress","usuário Barbosa","28/08/2026 09:36:09",3,1
+304,PCSP-2026-00284,"UIP - DEINTER 1",2024-130,Outros,"Forense Digital","Pending Analyst Assignment",,"28/08/2026 11:00:04",3,1
+305,PCSP-2026-00285,"UIP - DEINTER 1",2024-135,Outros,"Forense Digital","In Progress","admin spinola","28/08/2026 11:04:18",3,1
+307,PCSP-2026-00287,"UIP - DEINTER 9",2024-136,"Lavagem de Dinheiro","Forense Digital","In Progress","usuário Lima Santos","28/08/2026 12:53:00",3,1
+308,PCSP-2026-00288,"UIP - DEMACRO",2024-137,Roubo,"Forense Digital","In Progress","admin Netto","28/08/2026 13:56:42",3,1
+309,PCSP-2026-00289,"UIP - DENARC",2024-138,"Tráfico de Drogas","Forense Digital","In Progress","admin Netto","28/08/2026 14:59:05",3,1
+310,PCSP-2026-00290,"UIP - DEINTER 10",2024-140,Outros,"Forense Digital","In Progress","admin spinola","28/08/2026 15:34:32",3,1
+312,PCSP-2026-00292,"UIP - DEINTER 9",2024-139,"Tráfico de Drogas","Forense Digital","In Progress","usuario Bacalá Ribeiro","28/08/2026 17:02:33",3,1
+313,PCSP-2026-00293,"UIP - DEIC",2024-141,"Tráfico de Drogas","Forense Digital","In Progress","usuário Lima Santos","28/08/2026 19:22:16",3,1
+314,PCSP-2026-00294,"UIP - DEINTER 1",2024-143,Homicídio,"Forense Digital","In Progress","admin Netto","28/08/2026 19:33:56",3,1
+315,PCSP-2026-00295,"UIP - DEINTER 10",2024-145,"Tráfico de Drogas","Forense Digital","In Progress","usuário Trindade","28/08/2026 19:47:45",3,1
+316,PCSP-2026-00296,"UIP - DEINTER 5",2024-144,Outros,"Forense Digital","In Progress","usuario Bacalá Ribeiro","31/08/2026 09:15:27",0,1
